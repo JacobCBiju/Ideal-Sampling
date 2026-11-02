@@ -199,6 +199,9 @@ plt.show()
 # Ideal Sampling
 
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/00e28a33-6f0a-4e7d-b3ed-01a8673b505f" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/86881807-581b-4612-a8b6-502123d84638" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/8313100c-24ad-4753-9464-fe54ecff36c6" />
+
 
 # Natural Sampling
 
